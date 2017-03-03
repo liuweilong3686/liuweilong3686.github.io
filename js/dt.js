@@ -1,1 +1,1 @@
-var linux_commands=[{"n":"eedoc","p":"/sample","d":"基于Markdown、搜索引擎的文档管理系统"}]
+var linux_commands=[{"n":"roger hello","p":"/hello","d":"roeger's first doc'"},{"n":"eedoc","p":"/sample","d":"基于Markdown、搜索引擎的文档管理系统"}]
